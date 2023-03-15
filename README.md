@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RevioliALJ
 - 👀 I’m interested in coding for games, AI and just coding in general
-- 🌱 I’m currently learning c++ mainly with other not so relevant stuff such as assembly an VHDL
+- 🌱 I’m currently learning frontend and backend using primarily c#
 - 💞️ I’m looking to collaborate on projects for fun
 - 📫 How to reach me - oliverjrgensen00@gmail.com
 
